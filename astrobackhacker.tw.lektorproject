@@ -1,5 +1,6 @@
 [project]
 name = astrobackhacker.tw
+themes = lektor-icon
 
 [servers.ghpages]
 enabled = yes
