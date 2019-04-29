@@ -1,0 +1,8 @@
+[project]
+name = astrobackhacker.tw
+
+[servers.ghpages]
+enabled = yes
+name = Production
+target = ghpages+https://YihaoSu/YihaoSu.github.io
+default = yes
