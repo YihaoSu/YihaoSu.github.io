@@ -5,7 +5,25 @@ main_content:
 #### content ####
 title: 關於我
 ----
-description: 
+description:
+
+<div id="typed-strings">
+    <p>我是一位公民天文學家</p>
+    <p>我是一位會以背包客棧為辦公室的遠距工作者</p>
+    <p>我想成為一位熱愛分享、協作及開放文化的黑客</p>
+</div>
+<span id="typed"></span>
+<script>
+ $( document ).ready(function() {
+     var typed = new Typed('#typed', {
+       stringsElement: '#typed-strings',
+       loop: true,
+       typeSpeed: 50,
+       backSpeed: 10,
+       backDelay: 2000,
+    });
+});
+</script>
 ----
 nav_label: 關於我
 ----
