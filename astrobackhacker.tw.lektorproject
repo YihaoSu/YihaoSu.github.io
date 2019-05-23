@@ -1,6 +1,10 @@
 [project]
 name = astrobackhacker.tw
 themes = lektor-icon
+url = https://astrobackhacker.tw
+
+[packages]
+lektor-google-analytics = 0.1.3
 
 [servers.ghpages]
 enabled = yes

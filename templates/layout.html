@@ -140,6 +140,8 @@ style-src {{ style_src }};
 </head>
 
 <body>
+<!-- Google Analytics -->
+<div class="ga-script">{{ generate_google_analytics() }}</div>
 
 {% block loader %}
 {% endblock %}
