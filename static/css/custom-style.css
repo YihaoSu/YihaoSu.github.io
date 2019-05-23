@@ -1,3 +1,8 @@
 #section-about h2, #section-open-astronomy h2 {
     color: #91586e; 
 }
+
+#section-open-astronomy div.card.service {
+    background: #fbf0f0;
+}
+
