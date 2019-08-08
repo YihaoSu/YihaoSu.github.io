@@ -1,0 +1,20 @@
+_model: page
+---
+sort_key: 1
+---
+short_title: 演講
+---
+full_title: 演講列表
+---
+body:
+
+* 2019-09-22 「用Python拉近群眾與星空的距離：Astrohackers in Taiwan社群介紹」 - PyCon Taiwan 2019
+* 2019-08-17 「鄉民如何參與天文研究?」 - 開源人年會 COSCUP 2019
+* 2019-08-07 「天文黑客的黑洞大冒險」 - 南瀛天文館2019暑期教師研習營 (<a href="https://hackmd.io/@astrobackhacker/r1SoN_cMH" target="_blank">簡報</a>)
+* 2019-05-25 「興大附中天文黑客松 - 開場」 (<a href="https://hackmd.io/@astrobackhacker/BkdNiMO87" target="_blank">簡報</a>)
+* 2019-05-19 「如何把隔壁場的研究拿到天文教育再利用?」 - 2019天文年會 (<a href="https://hackmd.io/@astrobackhacker/Sk6aaPr2N" target="_blank">簡報</a>)
+* 2018-06-02 「以Astroquery套件擷取線上天文觀測資料」 - PyCon Taiwan 2018 (<a href="https://hackmd.io/@astrobackhacker/B1pDk2iAf" target="_blank">簡報</a>) (<a href="https://www.youtube.com/watch?v=sPUVD4XWOvE" target="_blank">錄影</a>)
+* 2017-06-09 「天文黑客們的Python大冒險」 - PyCon Taiwan 2017 (<a href="https://hackmd.io/@astrobackhacker/rJhGJeNzZ" target="_blank">簡報</a>) (<a href="https://www.youtube.com/watch?v=MX-cur3_ZgA" target="_blank">錄影</a>)
+* 2017-02-19 「興大附中天文黑客松 - 開場」 (<a href="https://hackmd.io/@astrobackhacker/SJbMb2rYe" target="_blank">簡報</a>)
+
+---
