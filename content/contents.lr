@@ -19,11 +19,11 @@ button_type:
 ----
 button_link: 
 #### services ####
-title: 天文教育產品
+title: 天文教育產品開發計畫
 ----
-description: 以下是我所開發的天文教育產品，內容涵蓋公民天文學、天文開放資料的認識與應用、以天文為主題的程式教育。
+description: 以下是我正在執行的天文教育產品開發計畫，內容涵蓋公民天文學、天文開放資料的認識與應用、以天文為主題的程式教育。
 ----
-nav_label: 天文教育產品
+nav_label: 天文教育產品開發計畫
 ----
 section_id: astro-edu-products
 ----
@@ -34,6 +34,12 @@ services:
 ##### service #####
 title: 天文的資料科學
 -----
-description: 我正在開發以「天文的資料科學」為主題的Python程式教學書籍及線上產品，結合我在天文研究和資料科學領域工作的經驗，讓讀者/使用者透過天文資料取得、前處理、分析及視覺化的範例，學習如何用Python解決這些問題，並從這資料科學過程中了解天文現象。如果你有興趣，請填寫這份<a href="https://docs.google.com/forms/d/e/1FAIpQLSdSjnrvdsqAtALGfIMxXhQMZ9PRO-e_2ML6kzg6tjqyHNl1eA/viewform" target="_blank">調查表單</a>，讓我能根據你的需求及建議，制定適合你的教學內容及呈現方式。
+description: 我正在開發以「天文的資料科學」為主題的Python程式教學書籍及線上產品，結合我在天文研究和資料科學領域工作的經驗，讓讀者/使用者透過天文資料取得、前處理、分析及視覺化的範例，學習如何用Python解決這些問題，並從這資料科學過程中了解天文現象。如果你有興趣，請填寫這份調查表單([連結](https://docs.google.com/forms/d/e/1FAIpQLSdSjnrvdsqAtALGfIMxXhQMZ9PRO-e_2ML6kzg6tjqyHNl1eA/viewform))，讓我能根據你的需求及建議，制定適合你的教學內容及呈現方式。
+-----
+icon: 
+##### service #####
+title: 天文的資料再創作
+-----
+description: 天文的觀測資料大多是為了科學研究而生，雖然我之前為了讓大眾認識開放的天文資料，啟動「天文的資料科學」教育產品開發計畫，但對於不懂程式設計和資料分析的大眾還是有點距離。因此，我想藉由這個新計畫，探索可以從哪些方向再賦予這些資料新生命，以拉近大眾與天文的距離。想要我為你開發能讓你更親近天文的產品嗎？歡迎填寫這個表單([連結](https://docs.google.com/forms/d/e/1FAIpQLSfGqlySaOVfWK-ZCeouJj4Ji6hJbBeLgK0B1ddpi16vR2ZvUQ/viewform))囉，感謝^^
 -----
 icon: 
