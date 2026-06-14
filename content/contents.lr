@@ -3,9 +3,9 @@ _model: single-layout
 main_content:
 
 #### content ####
-title: 開放天文 拉近群眾與星空的距離
+title: 與AI探索天文 拉近你與星空的距離
 ----
-description: 嗨，你好，我是蘇羿豪，中央大學天文博士，現為公民天文學家，致力於透過創作故事、遊戲等有趣體驗來推動開放科學，並運用生成式AI開發[天文教育產品](https://astrobackhacker.tw/#section-astro-edu-products)，著有[《資料視覺化：用Python為星空作畫》](https://ithelp.ithome.com.tw/articles/10345291)。我共同創辦「[Astrohackers in Taiwan](https://hackmd.io/@astrobackhacker/HJ1xEMrGW/https%3A%2F%2Fhackmd.io%2Fs%2FSkuGvfSMZ?type=book)」社群，旨在讓大眾認識並創新應用開放的科學資源，社群除了提供Python在天文領域應用的交流討論，也與教育單位合辦天文黑客松，讓參與者協作貢獻關於天文推廣教育與研究的開源專案。我不時會以背包客棧為辦公室，除了進行「與AI探索天文」等[天文教育產品開發計畫](https://astrobackhacker.tw/#section-astro-edu-products)外，也會承接與AI軟體開發相關的遠距工作。期許自己能成為熱愛分享、協作及開放文化的黑客。歡迎你看看[我撰寫的文章](https://ithelp.ithome.com.tw/users/20103436/articles)、瀏覽我的[演講列表](https://astrobackhacker.tw/speaking/)，加入「[Astrohackers-TW: Python在天文領域的應用](https://www.facebook.com/groups/astrohackers.tw.py)」FB社團，並追蹤「[與AI探索天文](https://www.facebook.com/astroeduai)」FB粉絲專頁及我的[Threads](https://www.threads.net/@astrobackhacker)和[Twitter(X)](https://x.com/astrobackhacker)。也歡迎與我邀約跟天文、生成式AI及程式相關的教學演講工作：astrobackhacker@gmail.com。
+description: 嗨，你好，我是蘇羿豪，中央大學天文博士畢業，現在是一位用AI軟體打造AI軟體的開發者，創辦教育娛樂品牌「[與AI探索天文](https://astroedu.ai/)」和「[Astrohackers in Taiwan](https://hackmd.io/@astrobackhacker/HJ1xEMrGW/https%3A%2F%2Fhackmd.io%2Fs%2FSkuGvfSMZ?type=book)」社群，著有《[資料視覺化：用Python為星空作畫](https://www.books.com.tw/products/0010997110)》。歡迎追蹤「與AI探索天文」的[YouTube](https://www.youtube.com/@astroeduai)、[FB](https://www.facebook.com/astroeduai)、[Threads](https://www.threads.com/@astroeduai)、[IG](https://www.instagram.com/astroeduai)及[X](https://x.com/astroeduai)，並[訂閱電子報](https://astroeduai.substack.com/)。我會透過這些平台分享如何運用各種AI工具，來探究你我好奇的天文主題、將它連結到生活及其他學科領域，並結合相關開放資料，打造有趣的天文應用程式與遊戲。我希望藉由這些分享，讓每個人都可以與AI創造出專屬自己的天文探索故事，拉近你與星空的距離。也歡迎與我邀約跟天文、生成式AI及程式相關的教學演講工作：astrobackhacker@gmail.com。
 ----
 nav_label: 
 ----
@@ -19,7 +19,7 @@ button_type:
 ----
 button_link: 
 #### services ####
-title: 天文教育產品開發計畫
+title: 「與AI探索天文」天文教育娛樂產品開發計畫
 ----
 description: 以下是我正在執行的天文教育產品開發計畫，內容涵蓋將天文連結到其它學科領域、公民天文學、天文開放資料的認識與應用、以天文為主題的程式教育等等。
 ----
@@ -31,12 +31,6 @@ video_url:
 ----
 services:
 
-##### service #####
-title: 與AI探索天文
------
-description: 為了延伸並實踐《資料視覺化：用Python為星空作畫》書中「與AI探索天文」的想法，我會在「[與AI探索天文](https://www.facebook.com/astroeduai)」這個粉絲專頁分享如何運用各種AI工具，來探究你我好奇的天文主題、將它連結到其它學科領域，並結合相關開放資料，打造有趣的天文應用程式與遊戲。我希望藉由這些分享，讓每個人都可以與AI創造出專屬自己的天文探索故事，拉近你們與星空的距離。
------
-icon: 
 ##### service #####
 title: 獵星者旅店
 -----
